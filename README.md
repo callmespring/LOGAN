@@ -10,4 +10,4 @@ size. We demonstrate the efficacy of our method through both simulations and a n
 
 <img align="center" src="ERRAB.png" alt="drawing" width="600">
 
-**Figure**: Empirical rejection rate and ROC curve of the proposed test, LOGAN, and the test of Chakrabortty et al. (2018), MIDA, when the dimension of the mediators d = 50. The upper panels: the sample size n = 100, and the bottom panels: n = 200. The left panels: under $`H_0`$, the middles panels: under $`H_1`$, where the horizontal axis is the mediator index, and the right panels: the average ROC curve. 
+**Figure**: Empirical rejection rate and ROC curve of the proposed test, LOGAN, and the test of Chakrabortty et al. (2018), MIDA, when the dimension of the mediators d = 50. The upper panels: the sample size n = 100, and the bottom panels: n = 200. The left panels: under `H_0`, the middles panels: under `H_1`, where the horizontal axis is the mediator index, and the right panels: the average ROC curve. 
