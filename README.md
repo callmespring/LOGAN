@@ -14,7 +14,7 @@ size. We demonstrate the efficacy of our method through both simulations and a n
 
 ## File overview
 
-* `Demonstration.ipynb` contains the main functions for the proposed test. Please refer to this [notebook](https://github.com/callmespring/LOGAN/blob/master/Demonstration.ipynb) for detailed illustration of the implementation.
+* `Demonstration.ipynb` contains the main functions for the proposed test. Please refer to this [notebook](https://github.com/callmespring/LOGAN/blob/master/Demonstration.ipynb) for detailed illustration of the implementation. It also contains the implementation of the MIDA test proposed by [Chakrabortty et al., 2018](https://arxiv.org/pdf/1809.10652.pdf). 
 * `./LOGAN/sparselearn` contains subroutines for sparse high-dimensional regression with [MCP](https://arxiv.org/pdf/1002.4734.pdf) penalty function. It is built upon the [`pycasso`](https://pypi.org/project/pycasso/) module.
 * `./LOGAN/notears.py` and `./LOGAN/utils.py` contain subroutines for the initial DAG estimation via the [NOTEARS](https://papers.nips.cc/paper/2018/file/e347c51419ffb23ca3fd5050202f9c3d-Paper.pdf) algorithm. These files are from earlier versions of the [`notears`](https://github.com/xunzheng/notears) module.
 
