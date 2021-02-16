@@ -11,3 +11,22 @@ size. We demonstrate the efficacy of our method through both simulations and a n
 <img align="center" src="ERRAB.png" alt="drawing" width="700">
 
 **Figure**: Empirical rejection rate and ROC curve of the proposed test, LOGAN, and the test of Chakrabortty et al. (2018), MIDA, when the dimension of the mediators d = 50. The upper panels: the sample size n = 100, and the bottom panels: n = 200. The left panels: under `H_0`, the middles panels: under `H_1`, where the horizontal axis is the mediator index, and the right panels: the average ROC curve. 
+
+## Citation
+
+Please cite our paper
+[Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/pdf/2005.04584.pdf)
+
+``` 
+@article{shi2020testing,
+  title={Testing Mediation Effects Using Logic of Boolean Matrices},
+  author={Shi, Chengchun and Li, Lexin},
+  journal={arXiv preprint arXiv:2005.04584},
+  year={2020}
+}
+``` 
+
+## Contributing
+
+All contributions welcome! All content in this repository is licensed under the MIT license.
+
