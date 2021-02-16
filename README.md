@@ -8,6 +8,6 @@ Mediation analysis is becoming an increasingly important tool in scientific stud
 and false discovery rate asymptotically, and the power of the test approaches one, meanwhile allowing the number of mediators to diverge to infinity with the sample
 size. We demonstrate the efficacy of our method through both simulations and a neuroimaging study of Alzheimer’s disease.
 
-<img align="center" src="ERRAB.png" alt="drawing" width="600">
+<img align="center" src="ERRAB.png" alt="drawing" width="700">
 
 **Figure**: Empirical rejection rate and ROC curve of the proposed test, LOGAN, and the test of Chakrabortty et al. (2018), MIDA, when the dimension of the mediators d = 50. The upper panels: the sample size n = 100, and the bottom panels: n = 200. The left panels: under `H_0`, the middles panels: under `H_1`, where the horizontal axis is the mediator index, and the right panels: the average ROC curve. 
