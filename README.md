@@ -12,6 +12,12 @@ size. We demonstrate the efficacy of our method through both simulations and a n
 
 **Figure**: Empirical rejection rate and ROC curve of the proposed test, LOGAN, and the test of Chakrabortty et al. (2018), MIDA, when the dimension of the mediators d = 50. The upper panels: the sample size n = 100, and the bottom panels: n = 200. The left panels: under `H_0`, the middles panels: under `H_1`, where the horizontal axis is the mediator index, and the right panels: the average ROC curve. 
 
+## File overview
+
+* `Demonstration.ipynb` contains the main functions for the proposed test. Please refer to this notebook for detailed illustration of the implementation.
+* `./LOGAN/sparselearn` contains subroutines for sparse high-dimensional regression with [MCP](https://arxiv.org/pdf/1002.4734.pdf) penalty function. It is built upon the [`pycasso`](https://pypi.org/project/pycasso/) module.
+* `./LOGAN/notears.py` and `./LOGAN/utils.py` contain subroutines for the initial DAG estimation via the [NOTEARS](https://papers.nips.cc/paper/2018/file/e347c51419ffb23ca3fd5050202f9c3d-Paper.pdf) algorithm. These files are from earlier versions of the [`notears`](https://github.com/xunzheng/notears) module.
+
 ## Citation
 
 Please cite our paper
