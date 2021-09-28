@@ -12,6 +12,10 @@ size. We demonstrate the efficacy of our method through both simulations and a n
 
 **Figure 1**: Empirical rejection rate and ROC curve of the proposed test, LOGAN, and the test of Chakrabortty et al. (2018), MIDA, when the dimension of the mediators d = 50. The upper panels: the sample size n = 100, and the bottom panels: n = 200. The left panels: under `H_0`, the middles panels: under `H_1`, where the horizontal axis is the mediator index, and the right panels: the average ROC curve. 
 
+<img align="center" src="SecA.png" alt="drawing" width="700">
+
+**Figure 2**: Empirical size and power when d1 = d2 = 35. First column: the vertical axis denotes the indices of the mediators in the first set, and the horizontal axis the second set. The black dots indicate the true significant mediator pairs. Second and third columns: the empirical rejection rate by the method of Chakrabortty et al. (2018), and our test, respectively. Fourth column: the average ROC curve with a varying significance level. First row: n = 200, and second row: n = 400.
+
 ## File overview
 
 * `Demonstration.ipynb` contains the main functions for the proposed test. Please refer to this [notebook](https://github.com/callmespring/LOGAN/blob/master/Demonstration.ipynb) for detailed illustration of the implementation. It also contains the implementation of the MIDA test proposed by [Chakrabortty et al., 2018](https://arxiv.org/pdf/1809.10652.pdf). 
