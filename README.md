@@ -1,6 +1,6 @@
 # Testing Mediation Effects Using LOGic of BooleAN Matrices (LOGAN)
 
-This repository contains the implementation for the paper ["Testing Mediation Effects Using Logic of Boolean Matrices"](https://arxiv.org/abs/2005.04584) in Python.
+This repository contains the implementation for the paper ["Testing Mediation Effects Using Logic of Boolean Matrices"](https://arxiv.org/abs/2005.04584) and ["Sequential Pathway Inference for Multimodal Neuroimaging Analysis"](http://eprints.lse.ac.uk/111904/) in Python.
 
 ## Summary of the paper
 
