@@ -14,7 +14,7 @@ size. We demonstrate the efficacy of our method through both simulations and a n
 
 <img align="center" src="SecA.png" alt="drawing" width="700">
 
-**Figure 2**: Empirical size and power when d1 = d2 = 35. First column: the vertical axis denotes the indices of the mediators in the first set, and the horizontal axis the second set. The black dots indicate the true significant mediator pairs. Second and third columns: the empirical rejection rate by the method of Chakrabortty et al. (2018), and our test, respectively. Fourth column: the average ROC curve with a varying significance level. First row: n = 200, and second row: n = 400.
+**Figure 2**: Empirical size and power when d1 = d2 = 35. First column: the vertical axis denotes the indices of the mediators in the first set, and the horizontal axis the second set. The black dots indicate the true significant mediator pairs. Second and third columns: the empirical rejection rate by the method of Chakrabortty et al. (2018), and our sequential test, respectively. Fourth column: the average ROC curve with a varying significance level. First row: n = 200, and second row: n = 400.
 
 ## File overview
 
