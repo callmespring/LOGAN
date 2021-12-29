@@ -29,12 +29,12 @@ Please cite our paper
 [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/pdf/2005.04584.pdf)
 
 ``` 
-@article{shi2020testing,
+@article{shi2021testing,
   title={Testing Mediation Effects Using Logic of Boolean Matrices},
   author={Shi, Chengchun and Li, Lexin},
   journal={Journal of the American Statistical Association},
   volume={accepted}
-  year={2020}
+  year={2021}
 }
 ``` 
 
