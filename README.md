@@ -29,12 +29,15 @@ Please cite our papers
 [Testing Mediation Effects Using Logic of Boolean Matrices](https://arxiv.org/pdf/2005.04584.pdf) and ["Sequential Pathway Inference for Multimodal Neuroimaging Analysis"](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.433)
 
 ``` 
-@article{shi2021testing,
-  title={Testing Mediation Effects Using Logic of Boolean Matrices},
+@article{shi2022testing,
+  title={Testing mediation effects using logic of Boolean matrices},
   author={Shi, Chengchun and Li, Lexin},
   journal={Journal of the American Statistical Association},
-  volume={accepted}
-  year={2021}
+  volume={117},
+  number={540},
+  pages={2014--2027},
+  year={2022},
+  publisher={Taylor \& Francis}
 }
 ``` 
 
